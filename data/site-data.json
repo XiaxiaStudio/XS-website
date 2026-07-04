@@ -1,0 +1,407 @@
+{
+  "profile": {
+    "name": "陈亚历",
+    "title": "全栈开发工程师 & UI 设计师",
+    "subtitle": "热爱创造，专注体验",
+    "availableText": "可接受自由职业项目",
+    "description": "我使用 React、Next.js、TypeScript 和现代 UI 设计，构建美观、高性能的 Web 体验。让我们一起把想法变为现实。",
+    "email": "hello@alexchen.dev",
+    "location": "远程 / 中国上海",
+    "phone": "+86 138 0000 0000",
+    "socials": [
+      { "label": "GitHub", "href": "https://github.com" },
+      { "label": "Twitter", "href": "https://twitter.com" },
+      { "label": "LinkedIn", "href": "https://linkedin.com" },
+      { "label": "Dribbble", "href": "https://dribbble.com" }
+    ]
+  },
+  "home": {
+    "hero": {
+      "badge": "可接受自由职业项目",
+      "greeting": "你好，我是",
+      "name": "陈亚历",
+      "flipWords": ["创意", "可靠", "热情", "高效"],
+      "role": "全栈开发工程师",
+      "description": "我使用 React、Next.js、TypeScript 和现代 UI 设计，构建美观、高性能的 Web 体验。让我们一起把想法变为现实。",
+      "primaryCta": "查看作品",
+      "secondaryCta": "联系我"
+    },
+    "featuredProjects": {
+      "label": "精选作品",
+      "title": "最近值得骄傲的",
+      "titleHighlight": "项目",
+      "description": "从 SaaS 平台到电商系统，每个项目都倾注了对代码质量与用户体验的追求。"
+    },
+    "services": {
+      "label": "我能帮你做什么",
+      "title": "全方位的数字产品",
+      "titleHighlight": "解决方案",
+      "items": [
+        {
+          "title": "Web 应用开发",
+          "description": "使用 React、Next.js 构建高性能、SEO 友好的现代化 Web 应用。",
+          "icon": "Code2"
+        },
+        {
+          "title": "UI/UX 设计",
+          "description": "从线框图到高保真设计稿，打造直观、美观且一致的用户界面。",
+          "icon": "Palette"
+        },
+        {
+          "title": "技术咨询",
+          "description": "帮助团队选择合适的技术栈、优化架构并提升开发效率。",
+          "icon": "Rocket"
+        },
+        {
+          "title": "性能优化",
+          "description": "分析并优化加载速度、渲染性能与可访问性，让产品更快更好用。",
+          "icon": "Sparkles"
+        }
+      ]
+    },
+    "testimonials": {
+      "label": "客户评价",
+      "title": "听听合作方",
+      "titleHighlight": "怎么说",
+      "items": [
+        {
+          "quote": "亚历对细节的关注令人印象深刻。他不仅交付了高质量代码，还提出了很多改善用户体验的建议。",
+          "author": "李明",
+          "role": "TechNova Studio 创始人"
+        },
+        {
+          "quote": "合作非常顺畅，沟通及时，技术能力强。项目按时上线后用户反馈非常好。",
+          "author": "王芳",
+          "role": "PixelPerfect 产品经理"
+        },
+        {
+          "quote": "他能把复杂的需求拆解成清晰的实现方案，是团队中非常可靠的工程师。",
+          "author": "张伟",
+          "role": "StartupLaunch 技术负责人"
+        }
+      ]
+    },
+    "cta": {
+      "title": "有项目想法？",
+      "titleHighlight": "让我们聊聊",
+      "description": "无论是全新产品、功能迭代还是技术咨询，我都很乐意听取你的需求。",
+      "buttonText": "开始合作",
+      "buttonHref": "/contact"
+    }
+  },
+  "about": {
+    "label": "关于我",
+    "title": "用心设计，",
+    "titleHighlight": "用热爱构建。",
+    "textGenerate": "我是一名拥有 5 年以上经验的全栈开发工程师和 UI 设计师，致力于打造用户喜爱的数字产品。",
+    "description": "我的旅程始于对网页工作原理的好奇心，后来发展为为初创企业和成熟公司构建可扩展应用的职业。我相信最好的产品诞生于简洁代码、 thoughtful 设计和深度用户同理心的交汇处。",
+    "story": {
+      "title": "我的故事",
+      "paragraphs": [
+        "大学时期第一次写 HTML 时，我就被 Web 的开放性和创造力吸引。从简单的静态页面到复杂的全栈应用，这条路上我不断学习和实践。",
+        "过去五年，我有幸参与了金融科技、电商、SaaS、教育科技等多个领域的项目。这些经历让我不仅磨练了技术，也学会了如何在快速变化的环境中与团队高效协作。",
+        "工作之余，我喜欢研究新技术、写技术博客、参与开源社区。我相信分享和回馈能让整个生态变得更好。"
+      ]
+    },
+    "values": [
+      {
+        "title": "用户至上",
+        "description": "始终把最终用户的体验放在第一位，做真正解决问题的产品。",
+        "icon": "Heart"
+      },
+      {
+        "title": "追求卓越",
+        "description": "不满足于「能用」，而是追求代码优雅、性能优异和体验精致。",
+        "icon": "Star"
+      },
+      {
+        "title": "持续学习",
+        "description": "技术日新月异，保持好奇心和学习热情是长期成长的关键。",
+        "icon": "BookOpen"
+      },
+      {
+        "title": "透明沟通",
+        "description": "及时同步进度、坦诚面对问题，建立基于信任的合作关系。",
+        "icon": "MessageCircle"
+      }
+    ],
+    "remoteText": "远程 / 全球",
+    "mottoText": "好奇心驱动",
+    "stats": [
+      { "value": "5+", "label": "年经验" },
+      { "value": "50+", "label": "交付项目" },
+      { "value": "30+", "label": "满意客户" },
+      { "value": "100%", "label": "投入度" }
+    ],
+    "items": [
+      {
+        "title": "简洁代码",
+        "description": "我编写可维护、类型安全的 TypeScript 代码，注重性能和开发者体验。",
+        "icon": "Code2",
+        "gradient": "from-yellow-500/10 to-lime-500/10",
+        "iconColor": "text-lime-500",
+        "className": "md:col-span-1"
+      },
+      {
+        "title": " thoughtful 设计",
+        "description": "从微交互到完整的设计系统，我打造直观且令人愉悦的界面。",
+        "icon": "Palette",
+        "gradient": "from-yellow-500/10 to-lime-500/10",
+        "iconColor": "text-yellow-500",
+        "className": "md:col-span-2"
+      },
+      {
+        "title": "快速交付",
+        "description": "我借助现代框架和 CI/CD 最佳实践，在不牺牲质量的前提下快速交付产品。",
+        "icon": "Rocket",
+        "gradient": "from-yellow-500/10 to-lime-500/10",
+        "iconColor": "text-lime-500",
+        "className": "md:col-span-2"
+      },
+      {
+        "title": "持续学习",
+        "description": "技术日新月异。我保持好奇，不断尝试新工具、新模式和新想法。",
+        "icon": "Sparkles",
+        "gradient": "from-lime-500/10 to-yellow-500/10",
+        "iconColor": "text-lime-500",
+        "className": "md:col-span-1"
+      }
+    ]
+  },
+  "skills": {
+    "label": "技能专长",
+    "title": "我用来构建优秀产品的",
+    "titleHighlight": "工具栈",
+    "description": "以下是我日常使用的核心技术栈，覆盖了前端、后端、UI 设计与工程化等各个方面。",
+    "categories": [
+      {
+        "name": "前端开发",
+        "description": "构建交互丰富、性能优异的现代化用户界面",
+        "skills": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "Redux/Zustand"]
+      },
+      {
+        "name": "后端开发",
+        "description": "设计稳定、可扩展的服务端架构与 API",
+        "skills": ["Node.js", "Express", "NestJS", "PostgreSQL", "MongoDB", "GraphQL"]
+      },
+      {
+        "name": "UI/UX 设计",
+        "description": "从用户研究到高保真原型的完整设计流程",
+        "skills": ["Figma", "Design Systems", "Prototyping", "User Research", "Accessibility"]
+      },
+      {
+        "name": "工程化 & DevOps",
+        "description": "提升开发效率与部署可靠性的工具和实践",
+        "skills": ["Git", "Docker", "CI/CD", "Vercel", "AWS", "Testing"]
+      }
+    ],
+    "proficiency": [
+      { "name": "React / Next.js", "level": 95 },
+      { "name": "TypeScript", "level": 90 },
+      { "name": "Tailwind CSS", "level": 92 },
+      { "name": "Node.js", "level": 85 },
+      { "name": "UI/UX 设计", "level": 80 },
+      { "name": "数据库设计", "level": 78 }
+    ],
+    "certifications": [
+      { "name": "AWS Certified Developer", "issuer": "Amazon Web Services", "year": "2023" },
+      { "name": "Meta Front-End Developer", "issuer": "Meta", "year": "2022" }
+    ],
+    "items": [
+      {
+        "title": "React 生态",
+        "description": "精通 React、Hooks、Context、Redux 以及可扩展应用的状态管理方案。",
+        "link": "#"
+      },
+      {
+        "title": "Next.js",
+        "description": "使用 App Router、服务端组件、API 路由和性能优化构建 SSR/SSG 应用。",
+        "link": "#"
+      },
+      {
+        "title": "TypeScript",
+        "description": "使用高级泛型、工具类型和严格工具配置进行类型安全开发。",
+        "link": "#"
+      },
+      {
+        "title": "Tailwind CSS",
+        "description": "使用 utility-first CSS 和自定义设计系统打造响应式、可访问的设计。",
+        "link": "#"
+      },
+      {
+        "title": "Node.js & 后端",
+        "description": "使用 Express、NestJS、PostgreSQL、MongoDB 和云服务集成 REST 与 GraphQL API。",
+        "link": "#"
+      },
+      {
+        "title": "UI/UX & 动画",
+        "description": "使用 Framer Motion、GSAP 和现代组件库创造令人愉悦的交互体验。",
+        "link": "#"
+      }
+    ],
+    "techStack": [
+      { "id": 1, "name": "React", "designation": "UI 库", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+      { "id": 2, "name": "Next.js", "designation": "框架", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" },
+      { "id": 3, "name": "TypeScript", "designation": "语言", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" },
+      { "id": 4, "name": "Tailwind", "designation": "样式", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" },
+      { "id": 5, "name": "Node.js", "designation": "运行时", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
+      { "id": 6, "name": "PostgreSQL", "designation": "数据库", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" },
+      { "id": 7, "name": "Figma", "designation": "设计", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" },
+      { "id": 8, "name": "Docker", "designation": "DevOps", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" }
+    ]
+  },
+  "projects": {
+    "label": "精选作品",
+    "title": "定义我 craftsmanship 的",
+    "titleHighlight": "项目",
+    "description": "以下是我近年参与或主导的部分项目，涵盖 SaaS、电商、AI 工具和数据可视化等领域。",
+    "categories": ["全部", "SaaS", "电商", "AI 工具", "数据可视化", "移动端"],
+    "items": [
+      {
+        "title": "SaaS 数据分析平台",
+        "description": "一个实时分析平台，包含交互式图表、基于角色的权限控制和自动化报告，帮助企业快速洞察业务数据。",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop",
+        "category": "数据可视化",
+        "tags": ["Next.js", "TypeScript", "PostgreSQL", "Tailwind"],
+        "demo": "#",
+        "repo": "#",
+        "year": "2024"
+      },
+      {
+        "title": "AI 内容创作工作室",
+        "description": "一款 AI 驱动的写作助手，帮助团队大规模创建、编辑和优化内容，支持多种写作场景与模板。",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2670&auto=format&fit=crop",
+        "category": "AI 工具",
+        "tags": ["React", "OpenAI", "Node.js", "MongoDB"],
+        "demo": "#",
+        "repo": "#",
+        "year": "2024"
+      },
+      {
+        "title": "电商综合市场",
+        "description": "一个多商户市场，包含实时库存、支付系统和自定义管理后台，服务超过 1000 家商户。",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=2670&auto=format&fit=crop",
+        "category": "电商",
+        "tags": ["Next.js", "Stripe", "Prisma", "Vercel"],
+        "demo": "#",
+        "repo": "#",
+        "year": "2023"
+      },
+      {
+        "title": "在线教育学习平台",
+        "description": "支持视频课程、互动测验和学习进度追踪的教育平台，为学生提供个性化学习体验。",
+        "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?q=80&w=2574&auto=format&fit=crop",
+        "category": "SaaS",
+        "tags": ["React", "Node.js", "PostgreSQL", "WebRTC"],
+        "demo": "#",
+        "repo": "#",
+        "year": "2023"
+      },
+      {
+        "title": "移动端健身追踪 App",
+        "description": "一款跨平台移动应用，帮助用户记录训练计划、追踪身体数据并提供可视化报告。",
+        "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=2670&auto=format&fit=crop",
+        "category": "移动端",
+        "tags": ["React Native", "Expo", "Firebase"],
+        "demo": "#",
+        "repo": "#",
+        "year": "2022"
+      },
+      {
+        "title": "企业级设计系统",
+        "description": "为中型企业打造的可复用组件库与设计规范，提升多个产品线的视觉一致性和开发效率。",
+        "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?q=80&w=2564&auto=format&fit=crop",
+        "category": "SaaS",
+        "tags": ["React", "Storybook", "Tailwind", "Figma"],
+        "demo": "#",
+        "repo": "#",
+        "year": "2022"
+      }
+    ]
+  },
+  "experience": {
+    "label": "职业经历",
+    "title": "我的",
+    "titleHighlight": "专业旅程",
+    "heading": "我的职业旅程",
+    "subheading": "过去几年我一直在 Web 开发领域深耕，以下是我的成长轨迹。",
+    "items": [
+      {
+        "title": "2024 - 至今",
+        "content": {
+          "role": "高级全栈开发工程师",
+          "company": "TechNova Studio",
+          "description": "为企业客户主导前端架构，指导初级开发者，并推动整个组织采用 Next.js App Router。负责多个核心产品的技术选型和性能优化。",
+          "tags": ["Next.js", "TypeScript", "AWS", "PostgreSQL"]
+        }
+      },
+      {
+        "title": "2022 - 2024",
+        "content": {
+          "role": "全栈工程师",
+          "company": "PixelPerfect Agency",
+          "description": "为金融科技、电商和 SaaS 领域交付了 20 多个客户项目。专注于 React 生态、设计系统和 API 集成，获得客户高度评价。",
+          "tags": ["React", "Node.js", "GraphQL", "Figma"]
+        }
+      },
+      {
+        "title": "2020 - 2022",
+        "content": {
+          "role": "前端开发工程师",
+          "company": "StartupLaunch Inc.",
+          "description": "作为早期工程师加入，帮助从 MVP 打造到产品市场匹配。实现了核心 UI 组件和状态管理架构，支撑用户从 0 增长到 10 万。",
+          "tags": ["JavaScript", "Vue.js", "Firebase", "Sass"]
+        }
+      },
+      {
+        "title": "2019 - 2020",
+        "content": {
+          "role": "前端开发实习生",
+          "company": "DigitalWorks Lab",
+          "description": "在导师指导下学习现代前端开发流程，参与多个营销页面和后台管理系统的开发，打下扎实基础。",
+          "tags": ["HTML/CSS", "JavaScript", "jQuery", "Bootstrap"]
+        }
+      }
+    ]
+  },
+  "contact": {
+    "label": "联系我",
+    "title": "让我们一起创造",
+    "titleHighlight": "精彩作品",
+    "description": "有项目想法或只是想打个招呼？我总是乐于讨论新机会和新想法。填写下方表单，我会尽快回复。",
+    "emailLabel": "邮箱",
+    "locationLabel": "地点",
+    "phoneLabel": "电话",
+    "socialLabel": "关注我",
+    "availability": "通常会在 24 小时内回复。目前可接受 7 月起的新项目。",
+    "faq": [
+      {
+        "question": "你的合作流程是怎样的？",
+        "answer": "通常分为需求沟通、方案报价、设计与开发、测试交付四个阶段。我会保持全程透明沟通。"
+      },
+      {
+        "question": "支持远程合作吗？",
+        "answer": "当然支持。我习惯于异步沟通和线上协作，能够高效地与分布在不同时区的团队合作。"
+      },
+      {
+        "question": "项目报价如何计算？",
+        "answer": "根据项目复杂度、工作范围和交付周期综合评估。初次沟通后会提供详细报价和排期。"
+      }
+    ],
+    "form": {
+      "nameLabel": "姓名",
+      "namePlaceholder": "你的名字",
+      "emailLabel": "邮箱",
+      "emailPlaceholder": "your@email.com",
+      "subjectLabel": "主题",
+      "subjectPlaceholder": "项目咨询",
+      "messageLabel": "留言",
+      "messagePlaceholder": "告诉我关于你的项目...",
+      "submitText": "发送消息"
+    },
+    "footer": {
+      "copyright": "保留所有权利。",
+      "builtWith": "使用 Aceternity UI 与 Next.js 构建"
+    }
+  }
+}
