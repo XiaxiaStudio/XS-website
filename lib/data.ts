@@ -12,6 +12,7 @@ export interface Site {
   title: string
   description: string
   logoText: string
+  favicon: string
 }
 
 export interface Profile {

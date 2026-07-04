@@ -206,6 +206,12 @@ function Dashboard() {
                 rows={3}
                 className="mt-4"
               />
+              <Field
+                label="标签页图标 URL（如 /favicon.ico 或 https://...）"
+                value={data.site.favicon}
+                onChange={(v) => update("site.favicon", v)}
+                className="mt-4"
+              />
             </SectionCard>
           )}
 
