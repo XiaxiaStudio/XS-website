@@ -17,7 +17,11 @@ const navLinks = [
   { name: "联系", href: "/contact" },
 ]
 
-export function Navbar() {
+interface NavbarProps {
+  logoText?: string
+}
+
+export function Navbar({ logoText = "亚历." }: NavbarProps) {
   const [isOpen, setIsOpen] = useState(false)
   const [scrolled, setScrolled] = useState(false)
   const [mounted, setMounted] = useState(false)
@@ -52,7 +56,7 @@ export function Navbar() {
           href="/"
           className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-yellow-400 to-lime-500"
         >
-          亚历.
+          {logoText}
         </Link>
 
         <div className="hidden md:flex items-center gap-1">

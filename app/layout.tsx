@@ -11,9 +11,12 @@ import { cn } from "@/lib/utils"
 const geist = Geist({ subsets: ["latin"], variable: "--font-sans" })
 const fontMono = Geist_Mono({ subsets: ["latin"], variable: "--font-mono" })
 
-export const metadata: Metadata = {
-  title: "陈亚历 | 全栈开发工程师与UI设计师",
-  description: "使用 React、Next.js、TypeScript 和现代 UI 设计，构建美观、高性能的 Web 体验。",
+export async function generateMetadata(): Promise<Metadata> {
+  const data = await getSiteData()
+  return {
+    title: data.site.title,
+    description: data.site.description,
+  }
 }
 
 export default async function RootLayout({
@@ -31,7 +34,7 @@ export default async function RootLayout({
     >
       <body>
         <ThemeProvider>
-          <Navbar />
+          <Navbar logoText={data.site.logoText} />
           {children}
           <Footer
             name={data.profile.name}

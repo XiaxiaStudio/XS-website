@@ -1,4 +1,9 @@
 {
+  "site": {
+    "title": "陈亚历 | 全栈开发工程师与UI设计师",
+    "description": "使用 React、Next.js、TypeScript 和现代 UI 设计，构建美观、高性能的 Web 体验。",
+    "logoText": "亚历."
+  },
   "profile": {
     "name": "陈亚历",
     "title": "全栈开发工程师 & UI 设计师",

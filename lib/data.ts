@@ -8,6 +8,12 @@ export interface SocialLink {
   href: string
 }
 
+export interface Site {
+  title: string
+  description: string
+  logoText: string
+}
+
 export interface Profile {
   name: string
   title: string
@@ -240,6 +246,7 @@ export interface Contact {
 }
 
 export interface SiteData {
+  site: Site
   profile: Profile
   home: Home
   about: About

@@ -30,6 +30,7 @@ import {
 import type { SiteData } from "@/lib/data"
 
 const tabs = [
+  { id: "site", label: "站点", icon: Layout },
   { id: "profile", label: "个人资料", icon: User },
   { id: "home", label: "首页", icon: Layout },
   { id: "about", label: "关于", icon: Info },
@@ -191,6 +192,23 @@ function Dashboard() {
           transition={{ duration: 0.2 }}
           className="mt-6 space-y-6"
         >
+          {activeTab === "site" && (
+            <SectionCard title="站点设置">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <Field label="浏览器标签标题" value={data.site.title} onChange={(v) => update("site.title", v)} />
+                <Field label="Logo 文字" value={data.site.logoText} onChange={(v) => update("site.logoText", v)} />
+              </div>
+              <Field
+                label="SEO 描述"
+                value={data.site.description}
+                onChange={(v) => update("site.description", v)}
+                textarea
+                rows={3}
+                className="mt-4"
+              />
+            </SectionCard>
+          )}
+
           {activeTab === "profile" && (
             <>
               <SectionCard title="个人资料">
